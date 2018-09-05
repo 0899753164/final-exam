@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/athiti_extralight</item>
+        <item>@font/chango</item>
+        <item>@font/kanit_thin</item>
+        <item>@font/lobster</item>
+        <item>@font/mitr_extralight</item>
+        <item>@font/pt_mono</item>
+        <item>@font/shrikhand</item>
+    </array>
+</resources>
